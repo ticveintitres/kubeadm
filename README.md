@@ -1,7 +1,7 @@
 # KUBEADM
 ## Repositorio KUBEADM
 
-
+![kubeadm](https://github.com/user-attachments/assets/814bafc0-9396-43c4-9b32-2c868517cee3)
 
 Este repositorio de GitHub reuné todo el código así como manuales relacionados con mi canal de Youtube
 
