@@ -71,7 +71,7 @@ kubectl apply -f https://raw.githubusercontent.com/projectcalico/calico/$CALICO_
 ###### INSTALANDO NODO
 
 ## Declaramos las variables
-NODE_IP="10.23.23.21"
+NODE_IP="192.168.88.251"
 NODE_USER=root
 JOIN_CMD=$(kubeadm token create --print-join-command)
 
