@@ -1,6 +1,6 @@
 85- Instala Kubeadm con un script
 
-En el siguiente video explico como instalar KUBEADM usando un script: 
+En el siguiente video explico como instalar KUBEADM usando un script: https://youtu.be/D7wnHb8tQJs
 
 Revisaros el Video en Youtube , además os dejo el código usado en el fichero kubeadm-install.sh
 
