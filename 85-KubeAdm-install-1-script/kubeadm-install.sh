@@ -1,5 +1,5 @@
 #!/bin/bash
-## Script hecho con amor por Alejandro Martinez Capilla (@ticveintitres)
+## Script hecho con amor para el canal de Youtube @ticveintitres
 
 ## Instalacion automatizada de Kubernetes + CRI-O + Calico
 
